@@ -1,27 +1,6 @@
 
 # Scrum Guide Cheat Sheet
 
-## Table of Contents:
-1. [Scrum Definition](#scrum-definition)
-2. [Scrum Theory](#scrum-theory)
-    - [Transparency](#transparency)
-    - [Inspection](#inspection)
-    - [Adaptation](#adaptation)
-3. [Scrum Values](#scrum-values)
-4. [Scrum Team](#scrum-team)
-    - [Developers](#developers)
-    - [Product Owner](#product-owner)
-    - [Scrum Master](#scrum-master)
-5. [Scrum Events](#scrum-events)
-    - [The Sprint](#the-sprint)
-    - [Sprint Planning](#sprint-planning)
-    - [Daily Scrum](#daily-scrum)
-    - [Sprint Review](#sprint-review)
-    - [Sprint Retrospective](#sprint-retrospective)
-6. [Scrum Artifacts](#scrum-artifacts)
-    - [Product Backlog](#product-backlog)
-    - [Sprint Backlog](#sprint-backlog)
-    - [Increment](#increment)
 
 ---
 
