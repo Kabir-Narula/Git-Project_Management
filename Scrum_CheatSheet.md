@@ -116,10 +116,3 @@ The **Scrum of Scrums** is an approach used for coordinating multiple Scrum team
 ---
 
 """
-
-# Saving the detailed cheat sheet to a markdown file
-detailed_file_path = "/mnt/data/Detailed_Scrum_Cheat_Sheet.md"
-with open(detailed_file_path, "w") as file:
-    file.write(scrum_detailed_cheat_sheet)
-
-detailed
