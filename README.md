@@ -77,14 +77,4 @@ Contributions are welcome! If you'd like to contribute to this repository, you c
 
 This repository is open source and available under the **MIT License**. Feel free to use the content in this repository for personal or educational purposes. Contributions and improvements are highly encouraged!
 
-## Contact
 
-For any questions or feedback, feel free to reach out to me at:
-
-- Email: [your-email@example.com]
-- GitHub: [https://github.com/<your-username>]
-- LinkedIn: [your-linkedin-profile]
-
----
-
-Thank you for checking out my repository! I hope you find the resources helpful and informative for managing your own projects.
