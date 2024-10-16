@@ -24,7 +24,7 @@ git clone https://github.com/Kabir-Narula/Git-Project_Management.git
 Once you've cloned the repository, navigate to the directory where it has been saved:
 
 ```bash
-cd Project_Management_Workflow
+cd Git-Project_Management
 ```
 
 Since this is primarily a documentation repository, there’s no need for additional installation steps. However, if you want to contribute or test any code examples, you might need the following software installed:
